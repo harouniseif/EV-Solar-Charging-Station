@@ -105,8 +105,3 @@ Electrical Engineer — ENP Constantine, 2025
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seif%20Eddine%20Harouni-blue?logo=linkedin)](https://www.linkedin.com/in/seif-eddine-harouni-4991a1328)
 
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
